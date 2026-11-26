@@ -1,2 +1,2 @@
 # fall26_Final_Project
-Simple phishing type example
+OwlSecure a mini phishing awareness simulator
